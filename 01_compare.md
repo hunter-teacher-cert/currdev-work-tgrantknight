@@ -1,4 +1,4 @@
-### Assignment 00: Standards
+### Assignment 01: Compare
 #### Course: AP CS Principles
 #### Comparison of [code.org](https://studio.code.org/home) (which I use) and [BJC](https://bjc.edc.org/bjc-r/course/bjc4nyc.html) (which I do not)
 
