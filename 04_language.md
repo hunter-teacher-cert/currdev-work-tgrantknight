@@ -4,7 +4,7 @@ AP CSP, mix of 10th-12th grade
 Some students may have taken the 9th grade Intro to CS elective
 
 ### What is the language?
-Snap
+SNAP
 
 ### How does one write & run code in this language?
 Code is written in a drag-and-drop workspace using different event hats as code triggers.
